@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered when building Docker images. The initial `Dockerfile` contains a path error, causing the build process to fail.  The `Dockerfile.fixed` provides a corrected version.
